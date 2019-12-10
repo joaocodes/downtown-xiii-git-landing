@@ -2,6 +2,10 @@ body{
     background: #BDBDBD;
 }
 
+card-padding{
+    margin-top: 15px;
+}
+
 .navbar {
     background: rgb(34, 34, 34)
 }
