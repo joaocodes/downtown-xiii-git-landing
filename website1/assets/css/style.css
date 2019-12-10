@@ -2,15 +2,10 @@ body{
     background: #BDBDBD;
 }
 
-.aligned-row {
-    display: flex;
-    flex-flow: row wrap;
-
-    &::before {
-        display: block;
-    }
-}
-
 card-padding{
     margin-top: 15px;
+}
+
+.navbar {
+    background: rgb(34, 34, 34)
 }
